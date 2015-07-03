@@ -9,6 +9,7 @@ html, body {
 	width: 20%;
 	height: 100%;
 	border: none;
+	float: left;
 }
 
 a.link-block {
@@ -34,6 +35,5 @@ a.link-block:hover {
 	width: 80%;
 	height: 100%;
 	padding: 20px 20px 20px 20px;
-	float: left;
 }
 
