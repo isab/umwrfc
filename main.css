@@ -3,16 +3,19 @@
 	width: 200px;
 	height: 100%;
 	border: none;
+	margin: 0px;
+	padding: 0px;
 }
 
-.link-block {
+a.link-block {
 	background-color: transparent;
 	font-color: #ffffff;
 	font-family: Helvetica;
-	font-size: 20px; 
+	font-size: 20px;
+	display: block; 
 }
 
-.link-block:hover {
+a.link-block:hover {
 	background-color: #ffffff;
 	font-color: #8a2629;
 }
