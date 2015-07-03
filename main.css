@@ -14,8 +14,8 @@ html, body {
 a.link-block {
 	background-color: transparent;
 	color: #ffffff;
-	font-family: "Lucida Grande";
-	font-size: 60px;
+	font-family: monospace;
+	font-size: 50px;
 	font-weight: 100; 
 	display: block; 
 	text-decoration: none;
