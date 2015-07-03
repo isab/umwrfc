@@ -28,3 +28,11 @@ a.link-block:hover {
 	color: #8a2629;
 }
 
+.content {
+	background-color: #2E2633;
+	border: none;
+	width: 80%;
+	height: 100%;
+	padding: 20px 20px 20px 20px;
+}
+
