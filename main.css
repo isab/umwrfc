@@ -32,8 +32,9 @@ a.link-block:hover {
 .content {
 	background-color: #2A2829;
 	border: none;
-	width: 80%;
+	width: 100%;
 	height: 100%;
 	padding: 20px 20px 20px 20px;
+	overflow: hidden;
 }
 
