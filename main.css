@@ -10,12 +10,13 @@ html, body {
 	border: none;
 }
 
-a.link-block:active, a.link-block:visited {
+a.link-block:active {
 	background-color: transparent;
 	font-color: #ffffff;
 	font-family: Helvetica;
 	font-size: 20px;
 	display: block; 
+	text-decoration: none;
 }
 
 a.link-block:hover {
