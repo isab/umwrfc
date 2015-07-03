@@ -1,16 +1,16 @@
 html, body {
     padding: 0;
     margin: 0;
+    height: 100%;
 }
 
 .side-bar {
 	background-color: #8a2629;
 	width: 20%;
-	height: 100%;
 	border: none;
 }
 
-a.link-block {
+a.link-block:active, a.link-block:visited {
 	background-color: transparent;
 	font-color: #ffffff;
 	font-family: Helvetica;
