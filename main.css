@@ -1,0 +1,19 @@
+.side-bar {
+	background-color: #8a2629;
+	width: 200px;
+	height: 100%;
+	border: none;
+}
+
+.link-block {
+	background-color: transparent;
+	font-color: #ffffff;
+	font-family: Helvetica;
+	font-size: 20px; 
+}
+
+.link-block:hover {
+	background-color: #ffffff;
+	font-color: #8a2629;
+}
+
