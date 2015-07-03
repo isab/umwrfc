@@ -10,7 +10,7 @@ html, body {
 	border: none;
 }
 
-a.link-block:active {
+a.link-block {
 	background-color: transparent;
 	font-color: #ffffff;
 	font-family: Helvetica;
