@@ -15,11 +15,12 @@ a.link-block {
 	background-color: transparent;
 	color: #ffffff;
 	font-family: Helvetica;
-	font-size: 20px;
-	height: 20%;
+	font-size: 50px;
+	font-weight: 200; 
 	display: block; 
 	text-decoration: none;
-	padding-left: 10px;
+	text-align: center;
+	padding: 20px 20px 20px 20px;
 }
 
 a.link-block:hover {
