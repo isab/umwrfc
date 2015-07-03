@@ -14,13 +14,13 @@ html, body {
 a.link-block {
 	background-color: transparent;
 	color: #ffffff;
-	font-family: "Trebuchet MS";
+	font-family: "Lucida Grande";
 	font-size: 60px;
 	font-weight: 100; 
 	display: block; 
 	text-decoration: none;
 	text-align: center;
-	padding: 20px 20px 20px 20px;
+	padding: 15px 15px 15px 15px;
 }
 
 a.link-block:hover {
