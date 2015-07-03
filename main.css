@@ -29,10 +29,11 @@ a.link-block:hover {
 }
 
 .content {
-	background-color: #2E2633;
+	background-color: #2A2829;
 	border: none;
 	width: 80%;
 	height: 100%;
 	padding: 20px 20px 20px 20px;
+	float: left;
 }
 
