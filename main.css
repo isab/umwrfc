@@ -16,8 +16,9 @@ html, body {
 	width: 20%;
 	height: 100%;
 	border: none;
-	float: left;
 	padding: 20px 20px 20px 20px;
+	float: left;
+	position: relative;
 }
 
 .content {
@@ -27,6 +28,7 @@ html, body {
 	height: 100%;
 	padding: 20px 20px 20px 20px;
 	float: left;
+	position: relative;
 }
 
 .section {
