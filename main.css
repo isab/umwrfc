@@ -26,6 +26,7 @@ html, body {
 	width: 80%;
 	height: 100%;
 	padding: 20px 20px 20px 20px;
+	float: right;
 }
 
 .section {
